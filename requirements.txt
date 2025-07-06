@@ -1,0 +1,15 @@
+# AWS SDK for Python
+boto3>=1.26.0
+botocore>=1.29.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Streamlit web framework for dashboard
+streamlit>=1.28.0
+
+# Data visualization and manipulation
+pandas>=2.0.0
+plotly>=5.15.0
+
+# Note: calendar, datetime, os are part of Python standard library
