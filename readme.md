@@ -2,6 +2,12 @@
 
 This is a comprehensive AWS cost analysis tool that provides both a Python CLI interface and an interactive web dashboard using Streamlit. It connects to AWS Cost Explorer API to display daily spending, monthly comparisons, service breakdowns, and cost projections.
 
+## 📸 Dashboard Preview
+
+![AWS Cost Dashboard](images/dashboard-screenshot.png)
+
+*Interactive web dashboard showing daily costs, monthly comparisons, and service breakdowns*
+
 ## Features
 
 ### 📊 **Interactive Web Dashboard** (Streamlit)
@@ -93,6 +99,8 @@ aws-cost-dash/
 ├── requirements.txt     # Python dependencies
 ├── .env                 # AWS credentials (create this)
 ├── .gitignore          # Version control exclusions
+├── images/             # Screenshots and assets
+│   └── dashboard-screenshot.png
 └── README.md           # This file
 ```
 

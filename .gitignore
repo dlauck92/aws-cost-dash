@@ -1,6 +1,9 @@
 # Environment variables (contains sensitive credentials)
 .env
 
+# Images directory should be included (but let's be explicit about it)
+# images/ - commented out so images are included in repo
+
 # Python
 __pycache__/
 *.py[cod]
