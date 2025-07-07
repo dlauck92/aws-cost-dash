@@ -4,7 +4,7 @@ This is a comprehensive AWS cost analysis tool that provides both a Python CLI i
 
 ## 📸 Dashboard Preview
 
-![AWS Cost Dashboard](images/dashboard-screenshot.png)
+![AWS Cost Dashboard](./images/dashboard-preview.png)
 
 *Interactive web dashboard showing daily costs, monthly comparisons, and service breakdowns*
 
